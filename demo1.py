@@ -1,0 +1,1 @@
+print(("srikanth" + "\n") *10)
